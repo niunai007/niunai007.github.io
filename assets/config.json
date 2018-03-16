@@ -1,5 +1,5 @@
 {
     "SERVER":{
-        "MAIN":"./mock"
+        "MAIN":"http://192.168.5.82:8087/salesman/h5"
     }
 }
