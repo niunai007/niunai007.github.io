@@ -1,5 +1,9 @@
 {
     "SERVER":{
-        "MAIN":"http://192.168.5.82:8087/salesman/h5"
+      "MAIN":"http://192.168.20.121:8003",
+      "SERVER":"http://192.168.6.148:8087",
+      "WXAPI":"http://192.168.6.27:8089/third/getWxJsSdkTicket",
+      "WXappId":"wxe351a7437550efcb",
+      "WXurl":"niunai007.github.io"
     }
 }
